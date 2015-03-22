@@ -1,42 +1,44 @@
-[13:03:54] [Client thread/INFO]: Setting user: Player812
-[13:03:58] [Client thread/INFO]: LWJGL Version: 2.9.1
-[13:04:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Celestial Powers
-[13:04:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[13:04:03] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[13:04:03] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[13:04:03] [Thread-6/INFO]: OpenAL initialized.
-[13:04:03] [Sound Library Loader/INFO]: Sound engine started
-[13:04:16] [Client thread/INFO]: Created: 512x512 textures-atlas
-[13:04:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Celestial Powers
-[13:04:18] [Client thread/INFO]: SoundSystem shutting down...
-[13:04:18] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[13:04:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[13:04:18] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[13:04:18] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[13:04:18] [Thread-8/INFO]: OpenAL initialized.
-[13:04:19] [Sound Library Loader/INFO]: Sound engine started
-[13:04:30] [Client thread/INFO]: Created: 512x512 textures-atlas
-[13:04:52] [Server thread/INFO]: Starting integrated minecraft server version 1.8
-[13:04:52] [Server thread/INFO]: Generating keypair
-[13:04:52] [Server thread/INFO]: Converting map!
-[13:04:52] [Server thread/INFO]: Scanning folders...
-[13:04:52] [Server thread/INFO]: Total conversion count is 0
-[13:04:54] [Server thread/INFO]: Preparing start region for level 0
-[13:04:55] [Server thread/INFO]: Changing view distance to 12, from 10
-[13:04:56] [Server thread/INFO]: Player812[local:E:b1bde552] logged in with entity id 5 at (-1.5, 4.0, -671.5)
-[13:04:56] [Server thread/INFO]: Player812 joined the game
-[13:05:08] [Server thread/INFO]: Player812 has just earned the achievement [Taking Inventory]
-[13:05:09] [Client thread/INFO]: [CHAT] Player812 has just earned the achievement [Taking Inventory]
-[13:05:39] [Server thread/INFO]: Saving and pausing game...
-[13:05:39] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
-[13:05:40] [Server thread/INFO]: Stopping server
-[13:05:40] [Server thread/INFO]: Saving players
-[13:05:40] [Server thread/INFO]: Saving worlds
-[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
-[13:05:43] [Client thread/INFO]: Stopping!
-[13:05:43] [Client thread/INFO]: SoundSystem shutting down...
-[13:05:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:14:19] [Client thread/INFO]: Setting user: Player15
+[18:14:24] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:14:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Celestial Powers
+[18:14:29] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:14:30] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[18:14:30] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:14:30] [Thread-7/INFO]: OpenAL initialized.
+[18:14:30] [Sound Library Loader/INFO]: Sound engine started
+[18:14:45] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:14:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Celestial Powers
+[18:14:47] [Client thread/INFO]: SoundSystem shutting down...
+[18:14:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:14:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:14:48] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[18:14:48] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:14:48] [Thread-9/INFO]: OpenAL initialized.
+[18:14:48] [Sound Library Loader/INFO]: Sound engine started
+[18:15:03] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:15:10] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[18:15:10] [Server thread/INFO]: Generating keypair
+[18:15:11] [Server thread/INFO]: Preparing start region for level 0
+[18:15:12] [Server thread/INFO]: Preparing spawn area: 55%
+[18:15:13] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:15:14] [Server thread/INFO]: Player15[local:E:a3aca429] logged in with entity id 107 at (-1.9386855507499097, 4.0, -667.9781432004638)
+[18:15:14] [Server thread/INFO]: Player15 joined the game
+[18:15:19] [Server thread/INFO]: Player15 has just earned the achievement [Taking Inventory]
+[18:15:19] [Client thread/INFO]: [CHAT] Player15 has just earned the achievement [Taking Inventory]
+[18:15:33] [Server thread/INFO]: Saving and pausing game...
+[18:15:33] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[18:15:33] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[18:15:33] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[18:16:52] [Server thread/INFO]: Saving and pausing game...
+[18:16:52] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[18:16:52] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[18:16:52] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[18:16:53] [Server thread/INFO]: Stopping server
+[18:16:53] [Server thread/INFO]: Saving players
+[18:16:53] [Server thread/INFO]: Saving worlds
+[18:16:53] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[18:16:53] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[18:16:53] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[18:17:00] [Client thread/INFO]: Stopping!
+[18:17:00] [Client thread/INFO]: SoundSystem shutting down...
+[18:17:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

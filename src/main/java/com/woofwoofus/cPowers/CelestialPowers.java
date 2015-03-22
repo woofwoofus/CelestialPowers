@@ -1,12 +1,15 @@
 package com.woofwoofus.cPowers;
 
-import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Blocks;
+import net.minecraft.init.Items;
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 import com.woofwoofus.cPowers.init.CelestialBlocks;
 import com.woofwoofus.cPowers.init.CelestialItems;
@@ -34,6 +37,12 @@ public class CelestialPowers {
 	@EventHandler
 	public void init(FMLInitializationEvent event){
 		proxy.registerRenders();
+		GameRegistry.addRecipe(new ItemStack(CelestialItems.c_orb), new Object[]{"IPI",
+			                                                                     "PGP",
+			                                                                     "IPI",
+			                                                                     'I',Items.iron_ingot,
+			                                                                     'P',Blocks.glass_pane,
+			                                                                     'G',Items.gold_ingot});
 	}
 	
 	@EventHandler
