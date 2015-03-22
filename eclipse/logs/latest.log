@@ -1,0 +1,42 @@
+[13:03:54] [Client thread/INFO]: Setting user: Player812
+[13:03:58] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:04:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Celestial Powers
+[13:04:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:04:03] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[13:04:03] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:04:03] [Thread-6/INFO]: OpenAL initialized.
+[13:04:03] [Sound Library Loader/INFO]: Sound engine started
+[13:04:16] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:04:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Celestial Powers
+[13:04:18] [Client thread/INFO]: SoundSystem shutting down...
+[13:04:18] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:04:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:04:18] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[13:04:18] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:04:18] [Thread-8/INFO]: OpenAL initialized.
+[13:04:19] [Sound Library Loader/INFO]: Sound engine started
+[13:04:30] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:04:52] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[13:04:52] [Server thread/INFO]: Generating keypair
+[13:04:52] [Server thread/INFO]: Converting map!
+[13:04:52] [Server thread/INFO]: Scanning folders...
+[13:04:52] [Server thread/INFO]: Total conversion count is 0
+[13:04:54] [Server thread/INFO]: Preparing start region for level 0
+[13:04:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:04:56] [Server thread/INFO]: Player812[local:E:b1bde552] logged in with entity id 5 at (-1.5, 4.0, -671.5)
+[13:04:56] [Server thread/INFO]: Player812 joined the game
+[13:05:08] [Server thread/INFO]: Player812 has just earned the achievement [Taking Inventory]
+[13:05:09] [Client thread/INFO]: [CHAT] Player812 has just earned the achievement [Taking Inventory]
+[13:05:39] [Server thread/INFO]: Saving and pausing game...
+[13:05:39] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[13:05:40] [Server thread/INFO]: Stopping server
+[13:05:40] [Server thread/INFO]: Saving players
+[13:05:40] [Server thread/INFO]: Saving worlds
+[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[13:05:40] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[13:05:43] [Client thread/INFO]: Stopping!
+[13:05:43] [Client thread/INFO]: SoundSystem shutting down...
+[13:05:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

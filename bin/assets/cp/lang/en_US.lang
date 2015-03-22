@@ -1,0 +1,4 @@
+item.c_orb.name=Celestial Orb
+tile.c_block.name = Celestial Block
+
+itemGroup.tabCelestial=Celestial Powers
