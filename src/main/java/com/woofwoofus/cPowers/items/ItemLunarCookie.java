@@ -1,0 +1,28 @@
+package com.woofwoofus.cPowers.items;
+
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.ItemFood;
+import net.minecraft.item.ItemStack;
+import net.minecraft.potion.Potion;
+import net.minecraft.potion.PotionEffect;
+import net.minecraft.world.World;
+
+public class ItemLunarCookie extends ItemFood{
+
+	public ItemLunarCookie(int amount, float saturation, boolean isWolfFood) {
+		super(amount, saturation, isWolfFood);
+	}
+	
+	@Override
+	public int getMaxItemUseDuration(ItemStack stack)
+    {
+        return 16;
+    }
+	
+	@Override
+	public void onFoodEaten(ItemStack stack, World worldIn, EntityPlayer player)
+    {
+    	player.addPotionEffect(new PotionEffect(Potion.heal.id, 1, 10));
+    }
+
+}

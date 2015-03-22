@@ -1,0 +1,7 @@
+package com.woofwoofus.cPowers.items;
+
+import net.minecraft.item.ItemFood;
+
+public class ItemLunarCookie extends ItemFood{
+
+}

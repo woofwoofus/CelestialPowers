@@ -1,0 +1,18 @@
+package com.woofwoofus.cPowers.items;
+
+import net.minecraft.item.ItemFood;
+import net.minecraft.item.ItemStack;
+
+public class ItemLunarCookie extends ItemFood{
+
+	public ItemLunarCookie(int amount, float saturation, boolean isWolfFood) {
+		super(amount, saturation, isWolfFood);
+	}
+	
+	@Override
+	public int getMaxItemUseDuration(ItemStack stack)
+    {
+        return 16;
+    }
+
+}
