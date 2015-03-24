@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemFood"/>
+<fullyQualifiedTypeName name="com.woofwoofus.cPowers.items.ItemLunarCookie"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="com.woofwoofus.cPowers.blocks.LunarFurnace"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="com.woofwoofus.cPowers.CelestialPowers"/>
+<fullyQualifiedTypeName name="net.minecraft.block.ITileEntityProvider"/>
+<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagCompound"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,17 @@
+package tile_entities;
+
+import net.minecraft.nbt.NBTTagCompound;
+import net.minecraft.tileentity.TileEntity;
+
+public class EntityLunarFurnace extends TileEntity{
+	
+	@Override
+	public void writeToNBT(NBTTagCompound compound){
+		super.writeToNBT(compound);
+	}
+	
+	@Override
+	public void readFromNBT(NBTTagCompound compound){
+		super.readFromNBT(compound);
+	}
+}

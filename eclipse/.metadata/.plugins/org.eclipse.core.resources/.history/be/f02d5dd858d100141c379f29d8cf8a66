@@ -1,0 +1,5 @@
+package com.woofwoofus.cPowers.tile_entities;
+
+public class TileEntityLunarFurnace {
+
+}

@@ -1,6 +1,9 @@
 package com.woofwoofus.cPowers.items;
 
+import com.woofwoofus.cPowers.CelestialPowers;
+
 import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemStack;
 import net.minecraft.potion.Potion;
@@ -22,7 +25,7 @@ public class ItemLunarCookie extends ItemFood{
 	@Override
 	public void onFoodEaten(ItemStack stack, World worldIn, EntityPlayer player)
     {
-    	player.addPotionEffect(new PotionEffect(Potion.heal.id, 1, 10));
+    	player.addPotionEffect(new PotionEffect(Potion.heal.id, 0, 2));
     }
 
 }

@@ -1,0 +1,12 @@
+package com.woofwoofus.cPowers.blocks;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class LunarFurnace extends Block{
+
+	public LunarFurnace(Material materialIn) {
+		super(materialIn);
+	}
+
+}

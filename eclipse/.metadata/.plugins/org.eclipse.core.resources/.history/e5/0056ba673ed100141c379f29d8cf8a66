@@ -1,0 +1,6 @@
+item.c_orb.name=Celestial Orb
+item.lunar_cookie.name=Lunar Cookie
+
+tile.c_block.name = Celestial Block
+
+itemGroup.tabCelestial=Celestial Powers
